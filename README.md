@@ -40,6 +40,24 @@ in this project we covered Toronto but we can easily extend the project to other
 # Results
 here is the output table as well as the map labelled with all the suggestions. the map was generated with folium.
 
+
+*All neighbourhood matching at least 1 interest:*
+
+![Table](https://github.com/MohamedKM/Capstone/blob/master/TableHoodScore.PNG)
+
+*Best Match (in Red):*
+![Best Match](https://github.com/MohamedKM/Capstone/blob/master/BestMatch.PNG)
+
+
+
+*Neighbourhood with 2 out of 3 interests (in Green):*
+![suggestions with 2 out of 3 interests met](https://github.com/MohamedKM/Capstone/blob/master/2outof3.PNG)
+
+
+
+*Neighbourhood with 2 out of 3 interests (in Green):*
+![suggestions with 1 out of 3 interests met](https://github.com/MohamedKM/Capstone/blob/master/1outof3.PNG)
+
 # Discussion:
 an interesting feature to add to the score would be the numbers of venues. 
 The goal would be to distinguish more easily two neighborhood with the same most common venues based on the density.
