@@ -9,14 +9,14 @@ Here the project was designed more specifically for individuals looking for a ne
 
 # Data used
 I am leveraging on   
-  1/ foursquare API to fetch all the venues in each neighborhood. 
-  2/ GPS data scraped from internet websites
+  1/ foursquare API to fetch all the venues in each neighborhood.  
+  2/ GPS data scraped from internet websites  
 
 once all this data retrieved i will follow a precise methodology to build a score for each neighborhood based on the interests.
-The methodology will be constructed to distinguish as best as possible neighborhood : depending on 
-  1/ frequency of venues
-  2/ density
-  3/ overall density of the venues
-  4/ size of the neighborhood
-  etc...
+The methodology will be constructed to distinguish as best as possible neighborhood : depending on   
+  1/ frequency of venues  
+  2/ density  
+  3/ overall density of the venues  
+  4/ size of the neighborhood  
+  etc...  
   
