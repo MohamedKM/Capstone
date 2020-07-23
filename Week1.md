@@ -8,7 +8,7 @@ for example : an eutrepreneur looking for an area where to open up a shop will b
 Here the project was designed more specifically for individuals looking for a new home. this tool will help them decide which is the most adequate neighborhood for them given a set of interests.
 
 # Data used
-I am leveraging on 
+I am leveraging on   
   1/ foursquare API to fetch all the venues in each neighborhood. 
   2/ GPS data scraped from internet websites
 
